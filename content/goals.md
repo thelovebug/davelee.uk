@@ -3,6 +3,7 @@ author: "Dave Lee"
 categories: ["Personal"]
 date: 2023-12-29T23:35:22Z
 description: ""
+disableComments: true
 draft: false
 menus: main
 slug: "goals"
