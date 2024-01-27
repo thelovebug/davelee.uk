@@ -1,4 +1,4 @@
-baseURL = 'https://davelee.uk/'
+aseURL = 'https://davelee.uk/'
 languageCode = 'en-gb'
 title = 'Dave Lee'
 theme = 'DoIt'
