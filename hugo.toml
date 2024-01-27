@@ -1,4 +1,4 @@
-aseURL = 'https://davelee.uk/'
+baseURL = 'https://davelee.uk/'
 languageCode = 'en-gb'
 title = 'Dave Lee'
 theme = 'DoIt'
@@ -105,7 +105,7 @@ theme = 'DoIt'
   ORCID = ""
   Liberapay = ""
   Ko-Fi = ""
-  BuyMeACoffee = ""
+  BuyMeACoffee = "thelovebug"
   Linktree = ""
   QQ = ""
   QQGroup = ""
@@ -518,9 +518,9 @@ theme = 'DoIt'
 
 # Author config
 [author]
-  name = "GuinuxBR"
-  email = "guinuxbr@gmail.com"
-  link = "https://www.linkedin.com/in/gllmarques/"
+  name = "Dave Lee"
+  email = ""
+  link = ""
   avatar = "/images/logo.png"
   gravatarEmail = ""
 

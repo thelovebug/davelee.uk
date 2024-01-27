@@ -1,6 +1,6 @@
 baseURL = "https://davelee.uk/"
 disablePathToLower = true
-languageCode = "en-us"
+languageCode = "en-gb"
 title = "Dave Lee"
 
 [markup]
