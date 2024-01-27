@@ -9,6 +9,7 @@ slug: "and-so-it-begins-again"
 summary: "A little over a year ago, I started a new blog under this domain with intent to make it my professional site."
 tags: ["Housekeeping"]
 title: "And so it begins again..."
+type: "blog"
 ---
 
 A little over a year ago, I started a new blog under this domain with intent to make it my professional site.
