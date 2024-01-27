@@ -1,18 +1,18 @@
----
-author: "Dave Lee"
-categories: ["Personal"]
-comment: false
-date: 2019-10-28T18:10:30Z
-description: ""
-draft: false
-featuredImage: "/images/now.jpg"
-menus: main
-slug: "now"
-tags: ["Personal"]
-title: "What am I doing now?"
-type: "page"
-weight: 10
----
++++
+author = "Dave Lee"
+categories = ["Personal"]
+comment = false
+date = 2019-10-28T18:10:30Z
+description = ""
+draft = false
+featuredImage = "/images/now.jpg"
+menus = main
+slug = "now"
+tags = ["Personal"]
+title = "What am I doing now?"
+type = "page"
+weight = 10
++++
 
 ![A picture of a number of clock faces, all of which repeatedly depict the word "now"](/images/now.jpg)
 

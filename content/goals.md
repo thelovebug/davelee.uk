@@ -1,18 +1,18 @@
----
-author: "Dave Lee"
-categories: ["Personal"]
-comment: false
-date: 2023-12-29T23:35:22Z
-description: ""
-draft: false
-featuredImage: "/images/goals.jpg"
-menus: main
-slug: "goals"
-tags: ["Personal"]
-title: "Goals and Achievements"
-type: "page"
-weight: 20
----
++++
+author = "Dave Lee"
+categories = ["Personal"]
+comment = false
+date = 2023-12-29T23:35:22Z
+description = ""
+draft = false
+featuredImage = "/images/goals.jpg"
+menus = main
+slug = "goals"
+tags = ["Personal"]
+title = "Goals and Achievements"
+type = "page"
+weight = 20
++++
 
 ![A picture of a number of clock faces, all of which repeatedly depict the word "now"](/images/goals.jpg)
 

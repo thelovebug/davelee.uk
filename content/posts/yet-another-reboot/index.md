@@ -1,15 +1,15 @@
----
-author: "Dave Lee"
-categories: ["Housekeeping"]
-date: 2024-01-27T19:20:00Z
-description: ""
-draft: false
-featuredImage: "banner.jpg"
-slug: "yet-another-reboot"
-summary: "Four or so years ago, I had a plan for this site.  Well, crap."
-tags: ["Housekeeping"]
-title: "Yet another reboot"
----
++++
+author = "Dave Lee"
+categories = ["Housekeeping"]
+date = 2024-01-27T19:20:00Z
+description = ""
+draft = false
+featuredImage = "banner.jpg"
+slug = "yet-another-reboot"
+summary = "Four or so years ago, I had a plan for this site.  Well, crap."
+tags = ["Housekeeping"]
+title = "Yet another reboot"
++++
 
 ## History lesson
 
