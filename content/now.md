@@ -1,6 +1,7 @@
 ---
 author: "Dave Lee"
 categories: ["Personal"]
+comment: false
 date: 2019-10-28T18:10:30Z
 description: ""
 draft: false

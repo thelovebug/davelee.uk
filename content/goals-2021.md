@@ -1,14 +1,14 @@
-+++
-author = "Dave Lee"
-categories = ["Amateur Radio"]
-date = 2021-01-08T20:07:20Z
-description = ""
-draft = false
-slug = "goals-2021"
-tags = ["Amateur Radio"]
-title = "Goals and Achievements 2021"
-
-+++
+---
+author: "Dave Lee"
+categories: ["Amateur Radio"]
+comment: false
+date: 2021-01-08T20:07:20Z
+description: ""
+draft: false
+slug: "goals-2021"
+tags: ["Amateur Radio"]
+title: "Goals and Achievements 2021"
+---
 
 
 ## Goals and Achievements for 2021
