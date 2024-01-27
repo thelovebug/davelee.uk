@@ -11,9 +11,7 @@ title: "Goals and Achievements 2021"
 ---
 
 
-## Goals and Achievements for 2021
-
-### Goals 2021
+## Goals 2021
 
 Based on what I said under 2020 about setting myself up for a fall by setting arbitrary goals, I'm going to set one this year, and that is...
 
@@ -23,7 +21,7 @@ Anyone who knows me is fully aware at how crap I am at keeping in contact with p
 * **Other stuff**
 Yes, I've set a target to lose weight, and to read a certain number of books, and finish reading the Bible... all things that I had set as goals last year, but these will appear as Achievements below as an incentive for me to do them.
 
-### Achievements 2021
+## Achievements 2021
 
 * will appear here when they happen.
 
@@ -46,11 +44,9 @@ To be fair, I can't remember what my starting weight was, but I can say with all
 * **Learn the drums to [50 Ways To Leave Your Lover](https://en.wikipedia.org/wiki/50_Ways_to_Leave_Your_Lover)**
 I started with good intentions, but I think I saturated myself with other things.
 
-### Summary
-
 I realised that I've been going about this all wrong.  I'm setting myself arbitrary targets for things that are essentially challenges, therefore setting myself up for a fall if I don't achieve them.  Whereas what I _should_ be doing is celebrating the things that I _have_ achieved over the year, and be happy with that.
 
-### Achievements 2019
+## Achievements 2019
 
 * **[The Big Slurp](https://thelovebug.org/slurp)**
 I finally started my solo podcast, kicked off with NaPodPoMo - 30 episodes in 30 days.  I haven't done anything else then, but I'm not concerned, as I have two episodes planned and ready to record when I'm ready.

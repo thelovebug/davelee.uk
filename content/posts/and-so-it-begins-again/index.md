@@ -1,16 +1,15 @@
----
-author: "Dave Lee"
-categories: ["Housekeeping"]
-date: 2019-10-21T17:42:57Z
-description: ""
-draft: false
-featuredImage: "banner.jpg"
-slug: "and-so-it-begins-again"
-summary: "A little over a year ago, I started a new blog under this domain with intent to make it my professional site."
-tags: ["Housekeeping"]
-title: "And so it begins again..."
-type: "blog"
----
++++
+author = "Dave Lee"
+categories = ["Housekeeping"]
+date = 2019-10-21T17:42:57Z
+description = ""
+draft = true
+featuredImage = "banner.jpg"
+slug = "and-so-it-begins-again"
+summary = "A little over a year ago, I started a new blog under this domain with intent to make it my professional site."
+tags = ["Housekeeping"]
+title = "And so it begins again..."
++++
 
 A little over a year ago, I started a new blog under this domain with intent to make it my professional site.
 
