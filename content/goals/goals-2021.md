@@ -13,7 +13,7 @@ title: "Goals and Achievements 2021"
 
 ## Goals and Achievements for 2021
 
-### Goals
+### Goals 2021
 
 Based on what I said under 2020 about setting myself up for a fall by setting arbitrary goals, I'm going to set one this year, and that is...
 
@@ -23,16 +23,16 @@ Anyone who knows me is fully aware at how crap I am at keeping in contact with p
 * **Other stuff**
 Yes, I've set a target to lose weight, and to read a certain number of books, and finish reading the Bible... all things that I had set as goals last year, but these will appear as Achievements below as an incentive for me to do them.
 
-### Achievements
+### Achievements 2021
 
 * will appear here when they happen.
 
 _This page last updated on 2021-01-08_
+_&nbsp;_
 
 ---
 
 ## Goals for 2020 - Result
-
 
 * **Read the entire Bible by December 31, using [this plan](https://www.bible.com/en-GB/reading-plans/10819-the-one-year-chronological-bible)**
 Finished 2020 about seven weeks behind, but I will finish it.
@@ -50,10 +50,7 @@ I started with good intentions, but I think I saturated myself with other things
 
 I realised that I've been going about this all wrong.  I'm setting myself arbitrary targets for things that are essentially challenges, therefore setting myself up for a fall if I don't achieve them.  Whereas what I _should_ be doing is celebrating the things that I _have_ achieved over the year, and be happy with that.
 
-### Achievements
+### Achievements 2019
 
 * **[The Big Slurp](https://thelovebug.org/slurp)**
 I finally started my solo podcast, kicked off with NaPodPoMo - 30 episodes in 30 days.  I haven't done anything else then, but I'm not concerned, as I have two episodes planned and ready to record when I'm ready.
-
-
-

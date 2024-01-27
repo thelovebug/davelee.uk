@@ -1,16 +1,15 @@
-+++
-author = "Dave Lee"
-categories = ["Housekeeping"]
-date = 2019-10-21T17:42:57Z
-description = ""
-draft = false
-featuredImage = "banner.jpg"
-slug = "and-so-it-begins-again"
-summary = "A little over a year ago, I started a new blog under this domain with intent to make it my professional site."
-tags = ["Housekeeping"]
-title = "And so it begins again..."
-+++
-
+---
+author: "Dave Lee"
+categories: ["Housekeeping"]
+date: 2019-10-21T17:42:57Z
+description: ""
+draft: false
+featuredImage: "banner.jpg"
+slug: "and-so-it-begins-again"
+summary: "A little over a year ago, I started a new blog under this domain with intent to make it my professional site."
+tags: ["Housekeeping"]
+title: "And so it begins again..."
+---
 
 A little over a year ago, I started a new blog under this domain with intent to make it my professional site.
 
@@ -26,7 +25,4 @@ The site is a bit out-of-the-box at the moment: I will make some changes, but no
 
 ---
 
-_Post image by [Amit Karkare](https://pixabay.com/users/dramitkarkare-6165456/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2787877) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2787877)_
-
-
-
+_Post image by [Amit Karkare](https://pixabay.com/users/dramitkarkare-6165456/) from [Pixabay](https://pixabay.com/)_

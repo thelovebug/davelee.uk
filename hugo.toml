@@ -521,8 +521,8 @@ theme = 'DoIt'
   name = "Dave Lee"
   email = ""
   link = ""
-  avatar = "/images/logo.png"
-  gravatarEmail = ""
+  avatar = ""
+  gravatarEmail = "dave@thelovebug.org"
 
 # Sitemap config
 [sitemap]
@@ -573,34 +573,36 @@ category = "categories"
 tag = "tags"
 series = "series"
 
-[languages]
-  [languages.en]
-    weight = 1
-    title = "Dave Lee"
-    languageCode = "en"
-    languageName = "EN"
-    [[languages.en.menu.main]]
-      identifier = "posts"
-      pre = ""
-      post = ""
-      name = "Posts"
-      url = "/posts/"
-      title = ""
-      weight = 111
-    [[languages.en.menu.main]]
-      identifier = "tags"
-      pre = ""
-      post = ""
-      name = "Tags"
-      url = "/tags/"
-      title = ""
-      weight = 112
-    [[languages.en.menu.main]]
-      identifier = "categories"
-      pre = ""
-      post = ""
-      name = "Categories"
-      url = "/categories/"
-      title = ""
-      weight = 113
+[menu]
+  [[menu.main]]
+    identifier = "sep"
+    pre = '<span class="menu-item delimiter"></span>'
+    post = ""
+    name = ""
+    title = ""
+    weight = 100
+  [[menu.main]]
+    identifier = "posts"
+    pre = ""
+    post = ""
+    name = "Posts"
+    url = "/posts/"
+    title = ""
+    weight = 110
+  [[menu.main]]
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+    weight = 111
+  [[menu.main]]
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
+    weight = 112
 

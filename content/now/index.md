@@ -5,12 +5,16 @@ comment: false
 date: 2019-10-28T18:10:30Z
 description: ""
 draft: false
+featuredImage: "/now/banner.jpg"
 menus: main
 slug: "now"
 tags: ["Personal"]
 title: "What am I doing now?"
 type: "page"
+weight: 10
 ---
+
+![A picture of a number of clock faces, all of which repeatedly depict the word "now"](/now/banner.jpg)
 
 
 ## Transient stuff
@@ -26,8 +30,5 @@ In a new role looking after Application Security and Environments in my business
 
 ---
 
-_This page is inspired by [nownownow.com](https://nownownow.com)_
-_and was last updated on 2022-07-22_
-
-
-
+_This page is inspired by [nownownow.com](https://nownownow.com) and was last updated on 2022-07-22_  
+_Image taken from [@nownownow](https://twitter.com/NowNowNow)_
