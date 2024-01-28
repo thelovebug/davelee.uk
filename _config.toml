@@ -1,9 +1,0 @@
-baseURL = "https://davelee.uk/"
-disablePathToLower = true
-languageCode = "en-gb"
-title = "Dave Lee"
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
