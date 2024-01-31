@@ -3,7 +3,7 @@ author = "Dave Lee"
 categories = ["Housekeeping"]
 date = 2024-01-31T20:11:08Z
 description = ""
-draft = true
+draft = false
 featuredImage = "banner.jpg"
 slug = "an-experiment"
 summary = "Now that I've set this site up on a platform-agnostic static site, I wanted to test that it actually worked."
@@ -52,6 +52,7 @@ git push
 
 See, as I write this -  having not yet carried out this bit - I am full of confidence!
 
+**EDIT:** Ok, so after removing the `draft` flag from the post, let's see if _that_ works! :laughing:
 
 ---
 
