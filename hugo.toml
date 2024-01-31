@@ -2,7 +2,7 @@ baseURL = 'https://davelee.uk/'
 languageCode = 'en-gb'
 title = 'Dave Lee'
 theme = 'DoIt'
-
+enableEmoji = true
 
 # Home page config
 [params.home]
