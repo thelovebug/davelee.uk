@@ -14,7 +14,7 @@ type = "page"
 weight = 20
 +++
 
-![A picture of a number of clock faces, all of which repeatedly depict the word "now"](/images/goals.jpg)
+![A stock photo of a goalkeeper, in mid-flight, saving a goal which was on target.](/images/goals.jpg)
 
 I suppose my first goal would be keeping this - and my [/now](https://davelee.uk/now) page up to date! 😁
 
