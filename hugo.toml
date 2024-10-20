@@ -43,9 +43,9 @@ enableEmoji = true
 [params.social]
   GitHub = "thelovebug"
   Linkedin = "daveilee"
-  Twitter = "thelovebug"
-  Instagram = "theinstabug"
-  Facebook = "thelovebug"
+  Twitter = ""
+  Instagram = ""
+  Facebook = ""
   Telegram = "thelovebug"
   Medium = ""
   Gitlab = ""
