@@ -134,7 +134,7 @@ enableEmoji = true
   # whether to enable the fraction extended syntax
   fraction = true
   # whether to enable the fontawesome extended syntax
-  fontawesome = true
+  #fontawesome = true
   # whether to show link to Raw Markdown content of the content
   linkToMarkdown = true
   # configure the link to the source file of the post
@@ -517,7 +517,7 @@ enableEmoji = true
     endLevel = 6
 
 # Author config
-[author]
+[params.author]
   name = "Dave Lee"
   email = ""
   link = ""
@@ -540,7 +540,7 @@ enableEmoji = true
   # privacy of the Google Analytics (replaced by params.analytics.google)
   [privacy.googleAnalytics]
     # ...
-  [privacy.twitter]
+  [privacy.x]
     enableDNT = true
   [privacy.youtube]
     privacyEnhanced = true
