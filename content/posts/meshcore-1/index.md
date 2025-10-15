@@ -3,6 +3,7 @@ author = "Dave Lee"
 categories = ["Radio"]
 date = 2025-10-16T19:00:00Z
 description = ""
+draft = true
 featuredImage = "banner.jpg"
 slug = "meshcore-initial-thoughts"
 summary = "My initial thoughts around the new mesh, and why I'm suddenly so interested in it"
