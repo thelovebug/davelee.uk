@@ -6,7 +6,6 @@ date = 2023-12-29T23:35:22Z
 description = ""
 draft = false
 featuredImage = "/images/goals.jpg"
-menus = "main"
 slug = "goals"
 tags = ["Personal"]
 title = "Goals and Achievements"
