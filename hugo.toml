@@ -399,7 +399,7 @@ enableEmoji = true
 
  # Sponsor config
 [params.sponsor]
-  enable = false
+  enable = true
   bio = "If you find this post helpful, please consider sponsoring."
   link = "https://www.buymeacoffee.com/thelovebug" # The link to your sponsor page
   custom = "" # Custom HTML button
@@ -524,6 +524,9 @@ enableEmoji = true
   avatar = ""
   gravatarEmail = "dave@thelovebug.org"
 
+[params.footer]
+  enable = true
+  
 # Sitemap config
 [sitemap]
   changefreq = "weekly"
