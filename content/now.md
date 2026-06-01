@@ -18,16 +18,11 @@ weight = 10
 
 ## Transient stuff
 
-* **Still studying for my [Intermediate Amateur Radio license](https://www.oarc.uk/intermediate)**
-Having achieved my Foundation license in April, it seemed logical to progress to Intermediate.  Find me on [QRZ (M7TLB)](https://qrz.com/db/M7TLB)
-* Learning about the JS8, PSK31, and RTTY data modes on Amateur Radio
-
-## Professionally
-
-* **Career shift**
-In a new role looking after Application Security and Environments in my business unit.  This is very new for me, so a steep learning curve.
+* Completed and passed my Intermediate Amateur Radio license exam.
+* Completed a short run as a volunteer theatre technician at my local Little Theatre.
+* Catching up on a bunch of podcast editing that fell behind due to the above two items!!
 
 ---
 
-_This page is inspired by [nownownow.com](https://nownownow.com) and was last updated on 2022-07-22_  
+_This page is inspired by [nownownow.com](https://nownownow.com) and was last updated on 2026-06-01_  
 _Image taken from [@nownownow](https://twitter.com/NowNowNow)_
